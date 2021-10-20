@@ -1,4 +1,4 @@
-import {request, response} from "express";
+import {Request, Response} from "express";
 import { AuthenticateUserService } from "../services/AuthenticateUserService";
 
 class AuthenticateUserController {
